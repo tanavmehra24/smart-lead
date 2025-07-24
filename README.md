@@ -73,4 +73,4 @@ Smart Lead Enricher is a Streamlit web application that enriches and scores comp
 - `data/` - Sample or user-uploaded data
 
 ## Contact
-For questions or support, contact: [hiteshivasu@gmail.com] 
+For questions or support, contact: [tanavmehra10@gmail.com] 
